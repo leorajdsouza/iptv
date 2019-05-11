@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Kannada", Zee Kannada-Pocket tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Kannada.png/220px-Zee_Kannada.png"
+#EXTINF:-1 group-title="IPL ChromeCast", IPL HS (Hindi) HD
+http://live12.akt.hotstar-cdn.net/hls/live/2003704/ipl2019/hin/15mindvrm0124april2019/master_4.m3u8
+#EXTINF:-1 group-title="Kannada", Zee Kannada-Pocket
 http://pockettv.xyz/api/zee.m3u8?c=zkannada
-#EXTINF:-1 group-title="Kannada", Zee Kannada-Airtel tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Kannada.png/220px-Zee_Kannada.png"
+#EXTINF:-1 group-title="Kannada", Zee Kannada-Airtel 
 http://mhms10.airtel.tv/PLTV/88888888/224/3221226575/index.m3u8
