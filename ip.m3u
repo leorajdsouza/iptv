@@ -1448,7 +1448,7 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TV9_Karnataka/TV9_Karnataka
 #EXTINF:-1 group-title="Kannada", Raj News Kannada
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_News_Kannada/Raj_News_Kannada_1200.m3u8?jct=H3bVPDoZkXrRjADgylrLPg&pxe=1560552085&st=2rABpyTLSDzkoYSlKcWJhg|user-agent="AppleWebKit/JioTV/537.36"
 #EXTINF:-1 group-title="Kannada", # Zee Kannada
-http://mhms10.airtel.tv/PLTV/88888888/224/3221226575/index.m3u8|user-agent="ua"
+http://mhms10.airtel.tv/PLTV/88888888/224/3221226575/index.m3u8
 #EXTINF:-1 group-title="Kannada" tvg-id="" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Movies.png", # Udaya Movies
 http://mhms11.airtel.tv/PLTV/88888888/224/3221226516/index.m3u8|user-agent="ua"
 #EXTINF:-1 group-title="Kannada" tvg-id="" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Comedy.png", Udaya_Comedy
