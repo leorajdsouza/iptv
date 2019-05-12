@@ -17,3 +17,9 @@ http://142.93.229:80/stargold_UK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies", $ Star Gold Select
 http://hindi.flussonic.cdnpro.me:80/star_gold_Select-Hin/index.m3u8
+
+#EXTINF:-1 group-title="Z5 WORLDWIDE", Z5 Zee Cinema
+http://pockettv.xyz/api/zee.m3u8
+#EXTINF:-1 group-title="Z5 WORLDWIDE", Z5 Zee Cinemal
+http://pockettv.xyz/api/zee.m3u8?c=zcinemalusd|user-agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3239.84 Safari/537.36"
+#EXTINF:-1 group-title="Z5 WORLDWIDE", Z5 Zee Cinema
