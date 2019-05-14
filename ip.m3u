@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="IPL ChromeCast", IPL HS (Hindi) HD
-http://live12.akt.hotstar-cdn.net/hls/live/2003704/ipl2019/hin/15mindvrm0124april2019/master_4.m3u8
-#EXTINF:-1 group-title="Kannada", Zee Kannada-Pocket
-http://pockettv.xyz/api/zee.m3u8?c=zkannada
-#EXTINF:-1 group-title="Kannada", Zee Kannada-Airtel 
-http://mhms10.airtel.tv/PLTV/88888888/224/3221226575/index.m3u8
-#EXTINF:-1 group-title="Hindi Movies", Star Gold
-http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000.m3u8
-#EXTINF:-1 group-title="Kannada", Public TV News Airtel
-http://mhms6.airtel.tv:80/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1 group-title="Kannada", Public TV News Airtel High
-http://mhms6.airtel.tv:80/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1 group-title="Default", Set
+http://cshms4.airtel.tv/wh7f454c46tw3905167023_1643242692/PLTV/88888888/224/3221225776/index.m3u8
+#EXTINF:-1 group-title="Default", Zee Kannada
+http://mhms11.airtel.tv/wh7f454c46tw722444921_1357701903/PLTV/88888888/224/3221226575/index.m3u8
+#EXTINF:-1 group-title="Default", Public tv
+http://mhms8.airtel.tv/wh7f454c46tw3895798645_1319603253/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:-1 group-title="Default", Sony max
+http://cshms4.airtel.tv/wh7f454c46tw1379887543_450042431/PLTV/88888888/224/3221225776/01.m3u8
+#EXTINF:-1 group-title="Default", Sony pix HD
+http://cshms3.airtel.tv/wh7f454c46tw2875248009_717314912/PLTV/88888888/224/3221226486/index.m3u8
