@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="Default", Zee Kannada
-http://mhms11.airtel.tv/wh7f454c46tw722444921_1357701903/PLTV/88888888/224/3221226575/index.m3u8
-#EXTINF:-1 group-title="Default", Public tv
-http://mhms8.airtel.tv/wh7f454c46tw3895798645_1319603253/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1 group-title="Default", Sony max
-http://cshms4.airtel.tv/wh7f454c46tw1379887543_450042431/PLTV/88888888/224/3221225776/01.m3u8
-#EXTINF:-1 group-title="Default", Sony pix HD
-http://cshms3.airtel.tv/wh7f454c46tw2875248009_717314912/PLTV/88888888/224/3221226486/index.m3u8
+https://z5ams2.akamaized.net/out/v1/fb5211b168c2433984192bea953a3cd5/master.m3u8?hdnts=st=1622814574~exp=1622817574~acl=/*~hmac=afd86c4b2b6f10ddbaab7bd09460ed237db985bfb1d7ead3edf8d031db3eb1b9
+#EXTINF:-1 group-title="Default", &flix
+https://z5ams.akamaized.net/andflix/index.m3u8?hdnts=st=1622814844~exp=1622817844~acl=/*~hmac=8005dea17fb30e938546e0c32b96749cd3a0c4bf79a8c0eac7dfe71bfe0f6255
+#EXTINF:-1 group-title="Default", Public TV
+https://stream-05.sg1.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj6x-Iw4UAPrRJexP7jUV-pc)/dm/3/x7rs4mq/s/live-3.m3u8
+#EXTINF:-1 group-title="Default", TV 9
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/tv9kannada-origin/live3/chunks.m3u8
